@@ -3,3 +3,16 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+header {
+ background-repeat: no-repeat;
+ background-size: cover;
+background-image: url(./img/nc3advel-do-mar-jc3a1-deveria-estar-mais-alto-revela-estudo.webp);   
+ height: 500px;
+ color: white;
+ position: relative;
+ text-align: center;
+ text-shadow: 1px 1px 1px black;
+}
+header h1 {
+ padding-top: 250px;
+}
